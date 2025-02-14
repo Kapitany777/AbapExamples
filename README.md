@@ -1,7 +1,7 @@
 # AbapExamples
 
-ABAP programming example scripts \
-I am learning the ABAP language and these are my first simple ABAP scripts.
+SAP ABAP programming example scripts \
+I am learning the SAP ABAP language and these are my first simple ABAP scripts.
 
 ## Bibliography:
 
