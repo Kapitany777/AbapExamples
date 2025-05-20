@@ -7,6 +7,8 @@
 *&---------------------------------------------------------------------*
 REPORT zk_regular.
 
+* https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenregular_expressions.htm
+
 DATA: filename TYPE string.
 
 filename = '.xlsx'.
