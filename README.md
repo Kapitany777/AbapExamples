@@ -13,6 +13,7 @@ I am learning the SAP ABAP language and these are my first simple ABAP scripts.
 - Topic 07, Strings: string manipulation
 - Topic 08, Subroutines: using old style subroutines
 - Topic 09, Regular expressions: using regular expressions
+- Topic 10, Dates: using SAP dates
 
 ## Bibliography:
 
