@@ -24,3 +24,4 @@ I am learning the SAP ABAP language and these are my first simple ABAP scripts.
 - Ken Greenwood: SAMS Teach Yourself ABAP/4 in 21 Days
 - Nicolas Pontier: Apprendre a programmer avec ABAP
 - Klaus Haeuptle - Florian Hoffmann - Rodrigo Jordão - Michel Martin - Anagha Ravinarayan - Kai Westerholz: Clean ABAP
+- Paul Hardy: Refactoring Legacy ABAP Code
