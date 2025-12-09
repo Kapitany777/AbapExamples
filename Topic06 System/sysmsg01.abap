@@ -20,6 +20,6 @@ ULINE.
 
 MESSAGE ID 'ZCL_MSG_DEMO' TYPE 'I' NUMBER '005'
    INTO DATA(lv_message)
-  WITH 'Text01' 'Text02' 'Text03'.
+   WITH 'Text01' 'Text02' 'Text03'.
 
 WRITE: / lv_message.
