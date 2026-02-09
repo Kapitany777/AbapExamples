@@ -20,6 +20,7 @@ I am learning the SAP ABAP language and these are my first simple ABAP scripts.
 
 - Dr. Boris Rubarth: First Steps in ABAP
 - Brian O’Neill - Jelena Perfiljeva: ABAP - An introduction
+- Kiran Bandari: Complete ABAP
 - Anikó Vágner: Introduction to ABAP Programming
 - Peter Moxon: Beginner's Guide to SAP ABAP
 - Ken Greenwood: SAMS Teach Yourself ABAP/4 in 21 Days
